@@ -1,0 +1,52 @@
+<DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tata Play @RioIptv</title>
+    <script type="text/javascript">
+        alert("Just Copy Past in Ur #IPTV Apk !")
+      window.location = "https://t.me/RioIptv"
+    </script>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <style>
+      body {
+        color: #ffffff;
+        background-color: #000000;
+      }
+
+      #main {
+        height: 100vh;
+      }
+
+      .hide {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="d-flex justify-content-center align-items-center" id="main">
+      <h1 class="mr-3 pr-3 align-top border-right inline-block align-content-center">Excess Forbidden</h1>
+      <div class="inline-block align-middle">
+        <h2 class="font-weight-normal lead" id="desc">Just Copy Past in Ur #IPTV Apk !</h2>
+      </div>
+    </div>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <container id="my-app-container"></container>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <div id="gtx-trans" style="position: absolute; left: 714px; top: 233.28px;">
+      <div class="gtx-trans-icon"></div>
+    </div>
+   <div class="hide">
+
+#EXTM3U  "RioIptv Premium Subscription"
+#EXTINF:-1 tvg-id="" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" group-title=" Telegram Contact" tvg-logo="https://i.ibb.co/qNXKQBk/20240724-160959.png", t.me/RioIptv
+https://t.me/RioIptv.mpd
+
+
+//  API Script by @RioIptv //
+
+
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" tvg-logo="https://i.ibb.co/qNXKQBk/20240724-160959.png" group-title=" Contact Operator",t.me/RioIptv
+https://t.me/RioIptv.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNXKQBk/20240724-160959.png" group-title=" Subscription Expired ",To Continue Buy Now !!
+https://t.me/RioIptv.mpd
